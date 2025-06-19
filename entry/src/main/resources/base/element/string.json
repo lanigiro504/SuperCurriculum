@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "course_widget_label",
+      "value": "课程卡片"
+    },
+    {
+      "name": "course_widget_desc",
+      "value": "显示今日课程安排的桌面卡片"
+    },
+    {
+      "name": "permission_reason",
+      "value": "用于课程提醒通知"
+    }
+  ]
+}
