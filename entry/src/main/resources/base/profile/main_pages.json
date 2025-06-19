@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/CourseDetail",
+    "pages/CourseEdit",
+    "pages/Settings"
+  ]
+}
